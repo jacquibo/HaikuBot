@@ -4,6 +4,9 @@ The JavaScript is basic and needs refactoring, but it does the job.
 
 Adding more vocabulary and possibly API sources for vocabulary is planned.
 
+## Twitter
+Find me on Twitter: [@HaikuBotUK](https://twitter.com/HaikuBotUK)
+
 ## What this project uses
 - Azure Functions
 - Azure Logic Apps
